@@ -11,6 +11,8 @@
 
 ###### Technical University of Applied Sciences Würzburg-Schweinfurt - Faculty of Computer Science and Business Information Systems, Sanderheinrichsleitenweg 20 97074 Würzburg
 
+Leveraging Python's analytical power to assess and enhance exam quality. Our program intelligently scores exams based on multiple factors, ensuring precision and fairness in assessment.
+
 ### Participants:
 
 - Kaan Özer, matrikelnr: 9123043
