@@ -1,4 +1,5 @@
-![alt text for screen readers](data_folder\img_data_folder\logo.jpg "Text to show on mouseover")
+ 
+ <img src="./Documentation\images\logo.jpg" alt="project on production">
 
 ### Faculty of Computer Science and Business Information Systems
 
